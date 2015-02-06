@@ -1,5 +1,5 @@
 # SDFF
-This is a script to use find sensitive dir and file
+This is a script use to find sensitive dir and file
 
 # Getting SDFF to work
 
