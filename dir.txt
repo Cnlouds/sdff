@@ -3,3 +3,6 @@
 /tiny_mce
 /cache
 /api
+/upload
+/admin
+/manager
