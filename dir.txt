@@ -6,3 +6,6 @@
 /upload
 /admin
 /manager
+/test
+/zabbix
+/puppet
