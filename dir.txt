@@ -1,0 +1,5 @@
+/js
+/html
+/tiny_mce
+/cache
+/api
